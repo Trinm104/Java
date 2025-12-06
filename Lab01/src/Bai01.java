@@ -11,5 +11,5 @@ public class Bai01 {
         System.out.println("Tên sinh viên: " + name);
         System.out.println("Điểm trung bình: " + gpa);
         scanner.close();
-
+    }
     }
